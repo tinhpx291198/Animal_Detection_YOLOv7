@@ -14,3 +14,7 @@ Colab: https://colab.research.google.com/drive/1kR3JbB2j-TVSuLk6NvkFdB-7PSt3tt3T
 ![water-buffalo](https://user-images.githubusercontent.com/104357148/203921207-e486897f-a311-4d53-beda-eb9d3e962c64.jpg)
 
 
+https://user-images.githubusercontent.com/104357148/203925300-fd3d5ff6-1bec-4d8c-b779-c547a7b5441d.mp4
+
+https://user-images.githubusercontent.com/104357148/203925177-69872055-bd1f-4983-a557-b51ea46d4746.mp4
+
