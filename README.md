@@ -5,7 +5,7 @@ Animals = ['Bear', 'Brown bear', 'Bull', 'Butterfly', 'Camel', 'Canary', 'Caterp
 
 # Image Detected
 
-![0](https://user-images.githubusercontent.com/104357148/211301369-0330e464-9686-44dc-8d6d-a8e37ba3678f.png)
+![0](https://user-images.githubusercontent.com/104357148/211301918-9024b49c-c006-4d4e-b476-a3d7acd87640.png)
 
 ![1](https://user-images.githubusercontent.com/104357148/211300988-01ec8477-a676-4de9-b2c1-ec1d914aea9a.png)
 
