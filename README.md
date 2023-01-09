@@ -5,14 +5,10 @@ Animals = ['Bear', 'Brown bear', 'Bull', 'Butterfly', 'Camel', 'Canary', 'Caterp
 
 # Image Detected
 
-![chimung](https://user-images.githubusercontent.com/104357148/211247936-003bb72d-1942-4950-817a-befc6f6952fb.jpg)
+![1](https://user-images.githubusercontent.com/104357148/211300988-01ec8477-a676-4de9-b2c1-ec1d914aea9a.png)
 
-![con-nai](https://user-images.githubusercontent.com/104357148/211247966-c2f01e5b-2b98-4d27-bd1d-f7f8aeb28035.jpg)
+![2](https://user-images.githubusercontent.com/104357148/211301043-6aec9c7e-d779-432b-9dfa-a0f2cc54959d.png)
 
-![Hinh-anh-con-Ngua-dep-nhat](https://user-images.githubusercontent.com/104357148/211247892-0b08d4ac-6af0-47e4-83b7-81a5ed0f6d45.jpg)
+![3](https://user-images.githubusercontent.com/104357148/211301094-b2d848a9-aa2a-499c-992e-91b84f9b8873.png)
 
-![ho-8347](https://user-images.githubusercontent.com/104357148/211247995-3dfc8fce-1c76-47b8-b2a7-8b845c9c53b9.jpg)
-
-![ngua-van](https://user-images.githubusercontent.com/104357148/211248030-4062e7a6-fc35-49eb-8360-34730d1214b8.jpg)
-
-![nhen](https://user-images.githubusercontent.com/104357148/211248057-47e8f51b-a928-4612-b5ec-68148fa0ae33.jpg)
+![4](https://user-images.githubusercontent.com/104357148/211301105-370a26d3-8420-47ec-a0c4-e27369f5cf0e.png)
